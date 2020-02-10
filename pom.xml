@@ -11,6 +11,7 @@
 
     <modules>
         <module>serialization</module>
+        <module>jms</module>
     </modules>
 
     <build>
