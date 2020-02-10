@@ -11,5 +11,8 @@
 
     <artifactId>serialization</artifactId>
 
+    <modules>
+        <module>read-url</module>
+    </modules>
 
 </project>
