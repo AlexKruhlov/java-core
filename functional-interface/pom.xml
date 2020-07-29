@@ -9,12 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>serialization</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>functional-interface</artifactId>
 
-    <modules>
-        <module>read-url</module>
-        <module>nio-core</module>
-    </modules>
 
 </project>
