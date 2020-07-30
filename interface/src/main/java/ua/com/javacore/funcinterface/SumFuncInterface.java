@@ -1,6 +1,6 @@
 package ua.com.javacore.funcinterface;
 
 @FunctionalInterface
-public interface SumInterface {
+public interface SumFuncInterface {
     int sum(int a, int b);
 }

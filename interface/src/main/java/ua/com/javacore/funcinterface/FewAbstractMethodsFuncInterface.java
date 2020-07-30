@@ -1,7 +1,7 @@
 package ua.com.javacore.funcinterface;
 
 @FunctionalInterface
-public interface FewAbstractMethods {
+public interface FewAbstractMethodsFuncInterface {
 
     boolean equals(Object obj);
 

@@ -12,7 +12,7 @@
     <modules>
         <module>serialization</module>
         <module>jms</module>
-        <module>functional-interface</module>
+        <module>interface</module>
     </modules>
 
     <build>
